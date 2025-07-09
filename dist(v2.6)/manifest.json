@@ -1,0 +1,53 @@
+
+{
+  "name": "Erre Prompt Optimizer",
+  "short_name": "ErrePromptOptimizer",
+  "description": "Transform simple prompts into powerful, precise instructions using advanced AI technology",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#8b5cf6",
+  "orientation": "portrait-primary",
+  "categories": ["productivity", "utilities", "business"],
+  "lang": "en",
+  "icons": [
+    {
+      "src": "/lovable-uploads/2b17c847-ac7a-440c-b2a3-155235a006fd.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/lovable-uploads/2b17c847-ac7a-440c-b2a3-155235a006fd.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Optimize Prompt",
+      "short_name": "Optimize",
+      "description": "Quickly optimize a new prompt",
+      "url": "/?action=optimize",
+      "icons": [
+        {
+          "src": "/lovable-uploads/2b17c847-ac7a-440c-b2a3-155235a006fd.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "View History",
+      "short_name": "History",  
+      "description": "View your prompt history",
+      "url": "/?tab=history",
+      "icons": [
+        {
+          "src": "/lovable-uploads/2b17c847-ac7a-440c-b2a3-155235a006fd.png",
+          "sizes": "96x96"
+        }
+      ]
+    }
+  ]
+}

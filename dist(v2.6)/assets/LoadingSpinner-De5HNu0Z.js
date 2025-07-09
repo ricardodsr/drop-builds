@@ -1,0 +1,1 @@
+import{j as s,O as a,i as t}from"./index-QpcEAcYr.js";const c=({size:n="md",text:e,className:i})=>{const r={sm:"h-4 w-4",md:"h-6 w-6",lg:"h-8 w-8"};return s.jsxs("div",{className:a("flex items-center justify-center gap-2",i),children:[s.jsx(t,{className:a("animate-spin",r[n])}),e&&s.jsx("span",{className:"text-sm text-gray-600",children:e})]})};export{c as L};
